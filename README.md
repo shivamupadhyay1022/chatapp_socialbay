@@ -1,2 +1,2 @@
-"# chatapp_socialbay" 
-"# chatapp_socialbay" 
+Flutter ChatApp with firebase at the backend
+
