@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">646170643075-qgisu9vibsnq0iiten6amdn8ohr7k4nh.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">646170643075</string>
+    <string name="google_api_key" translatable="false">AIzaSyC_2Br4N730YYWTPz0PG75HE9IKz0z6jqM</string>
+    <string name="google_app_id" translatable="false">1:646170643075:android:dea516ca033f69f46869b6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC_2Br4N730YYWTPz0PG75HE9IKz0z6jqM</string>
+    <string name="google_storage_bucket" translatable="false">groupies-chatbot.appspot.com</string>
+    <string name="project_id" translatable="false">groupies-chatbot</string>
+</resources>

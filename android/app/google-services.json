@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "646170643075",
+    "project_id": "groupies-chatbot",
+    "storage_bucket": "groupies-chatbot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646170643075:android:dea516ca033f69f46869b6",
+        "android_client_info": {
+          "package_name": "com.su.SocialBay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646170643075-9k6ggojji4jjeoh1nurs32hqdis60qeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.su.SocialBay",
+            "certificate_hash": "f38a751c265596fa95fd9c144193eb363794ff30"
+          }
+        },
+        {
+          "client_id": "646170643075-qgisu9vibsnq0iiten6amdn8ohr7k4nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_2Br4N730YYWTPz0PG75HE9IKz0z6jqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646170643075-qgisu9vibsnq0iiten6amdn8ohr7k4nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
