@@ -1,4 +1,4 @@
-#Wed Dec 28 18:10:36 IST 2022
+#Wed Aug 02 19:17:16 IST 2023
 base.0=D\:\\Projecct Files\\Flutter Projects\\Groupies\\chatapp_firebase\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
-renamed.0=classes.dex
 path.0=classes.dex
+renamed.0=classes.dex
