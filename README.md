@@ -10,6 +10,23 @@ An app where users can  chat with friends.
 - Make Groups
 - Chat with friends
 
+## Screenshots
+
+The firsst page after installig the app on android aka Login Page.
+
+![first](https://github.com/shivamupadhyay1022/chatapp_socialbay/assets/72781750/89a00001-9fc3-4217-b331-4fa8491f647c)
+
+Update your profile
+
+![update](https://github.com/shivamupadhyay1022/chatapp_socialbay/assets/72781750/6ab0dc72-d103-4ac5-bf2e-2f02dec2c45f)
+
+Create your own group.
+
+![creategrp](https://github.com/shivamupadhyay1022/chatapp_socialbay/assets/72781750/f9f88c99-864f-4f0e-9f24-5554653debbc)
+
+Chat with friends!!
+
+![chat](https://github.com/shivamupadhyay1022/chatapp_socialbay/assets/72781750/c85a5331-c2b1-4914-ba8a-afa57251768a)
 
 ## License
 
@@ -29,8 +46,14 @@ Add firbease to this project and check the google-services.json and GoogleServic
 ## Tech Stack
 
 The Firebase Firestore, Authentication, and hosting has been used.
+
 [![backend - Firebase](https://img.shields.io/badge/Backend-Firebase-orange?logo=firebase&logoColor=white)](https://www.npmjs.com/package/Firebase)
 
 The whole app has been made using cross-platform flutter
+
 [![Frontend - Flutter](https://img.shields.io/badge/Frontend-Flutter-blue?logo=flutter&logoColor=white)](https://www.npmjs.com/package/Flutter)
+
+
+
+
 
